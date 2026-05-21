@@ -4,6 +4,6 @@
     "href": "index.html",
     "title": "Welcome to My Academic Website",
     "section": "",
-    "text": "Hello! I am Nazrul Haque, a researcher. Welcome to my personal website.\n\nResearch & Mathematics\nHere is an example of an inline LaTeX math formula: \\(f(x) = \\sin(x) + e^x\\).\nAnd here is a beautifully centered display equation:\n\\[\\int_{a}^{b} f(x) \\, dx = F(b) - F(a)\\]"
+    "text": "Hello! I am Nazrul Haque, a PhD student at Nicolaus Copernicus University. Welcome to my personal website.\n\nResearch & Mathematics\nHere is an example of an inline LaTeX math formula: \\(f(x) = \\sin(x) + e^x\\).\nAnd here is a beautifully centered display equation:\n\\[\\int_{a}^{b} f(x) \\, dx = F(b) - F(a)\\]"
   }
 ]
